@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # basel.py
 
-# Note: After running for 46 hours, pi was estimated correctly to 7 decimal places.
+# NOTE: After running for 46 hours, pi was estimated correctly to 7 decimal places.
 
 from math import sqrt
 from time import *
